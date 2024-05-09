@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [4.2.2] - 2024-05-09
+### Fixed
+- Fixed details
+
 ## [4.2.1] - 2024-05-09
 ### Fixed
 - Fix translation on media fields
