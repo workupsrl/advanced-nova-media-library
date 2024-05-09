@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [4.2.1] - 2024-05-09
+### Fixed
+- Fix translation on media fields
+
 ## [4.2.0] - 2024-02-08
 ### Added
 - Translatable SEO attributes for images
